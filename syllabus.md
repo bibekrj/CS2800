@@ -66,7 +66,7 @@ Students will be provided with online reference materials throughout the course 
 
 - **Discord** will be the primary platform for class communication, questions, and troubleshooting.  
   - Wright State CSE Discord Server: https://discord.gg/pMUMzTt  
-  - Course channels: `#ceg-class-selection`  
+  - Course channels: `#cs-class-selection` . You will need to click on the selection before you can access the discord channel.  
   - Verified accounts appear in green or gold, depending on role.  
 
 **Note:** It is the student’s responsibility to check Pilot, Wright State email, and the course Discord server regularly (at least once daily) for announcements, resources, and clarifications.  
