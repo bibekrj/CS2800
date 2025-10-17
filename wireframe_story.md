@@ -95,7 +95,7 @@ Name the file as:
 
 ## Submission Instructions
 
-- Upload your PDF to **Pilot AND GitHub Classroom (Final Project Repository)**.   
+- Upload your Mardown to **Pilot AND GitHub Classroom (Final Project Repository)**.   
 - No Late Submissions
 
 ---
