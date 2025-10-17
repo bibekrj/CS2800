@@ -32,9 +32,9 @@ Describe:
 ---
 
 ### 2. Purpose & Goals
-Define the **main purpose** of your site.  
-Is it meant to **sell**, **promote**, **educate**, or **inspire**?  
-Explain what success looks like for the client — and how the user experience supports it.
+- Define the **main purpose** of your site.  
+- Is it meant to **sell**, **promote**, **educate**, or **inspire**?  
+- Explain what success looks like for the client — and how the user experience supports it.
 
 ---
 
