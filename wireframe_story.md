@@ -47,7 +47,8 @@ Describe the intended users:
 ---
 
 ### 4. User Story or Journey
-Write a **short narrative or step-by-step story** describing how a typical user would interact with your site:
+Write a **short narrative or step-by-step story** describing how a typical user would interact with your site.
+Example: 
 > “A first-time visitor lands on the homepage, browses through featured products, adds two items to their cart, then uses the checkout form to complete a purchase.”
 
 
@@ -63,7 +64,7 @@ Summarize the **visual and stylistic personality** of your site:
 
 ## Part 2: The Wireframes — “How Will It Look?”
 
-Create **clear, labeled wireframes** for your main pages:
+Create **clear, labeled wireframes** for your main pages. You must include: 
 
 - `index.html` (storefront / landing page)  
 - `product.html` (single product view)  
@@ -84,7 +85,7 @@ Each wireframe must:
 You may use any of the following tools:
 - Digital tools (Draw.io, Figma, Balsamiq, Canva, Adobe XD, etc.)  
 
-Your final deliverable must be exported as a **Markdown** containing:
+Your final deliverable must be exported as a **Markdown File** containing:
 1. The written story section  
 2. All annotated wireframes
 
