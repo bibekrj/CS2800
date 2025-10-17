@@ -95,7 +95,7 @@ Name the file as:
 
 ## Submission Instructions
 
-- Upload your Markdown with Wireframe images(png, jpg, etc.) to **GitHub Classroom (Final Project Repository)**.   
+- Upload your Markdown with annotated wireframe images embedded(png, jpg, etc.) to **GitHub Classroom (Final Project Repository)**.   
 - Upload your Markdown with Zipped Images to **Pilot**.
 - No Late Submissions
 
