@@ -33,7 +33,7 @@ Describe:
 
 ### 2. Purpose & Goals
 - Define the **main purpose** of your site.  
-- Is it meant to **sell** and does it serve secondary purpose such as **promote**, **educate**, or **inspire**?  
+- Is it meant to **sell** products only? or does it serve secondary purpose such as **promote**, **educate**, or **inspire**?  
 - Explain what success looks like for the client — and how the user experience supports it.
 
 ---
