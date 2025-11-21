@@ -1,6 +1,6 @@
 # 📝 CS 2800 — Final Project  
 **Assignment:** Multi-Page Website with Local Storage  
-**Due:** Nov 21, 2025. 11:59 PM   
+**Due:** Dec 5, 2025. 11:59 PM   
 **Weight:** Refer Syllabus
 
 
