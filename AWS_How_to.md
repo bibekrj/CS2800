@@ -1,6 +1,6 @@
 ## Your workflow from your IDE/Terminal to AWS may look like
 
-Local Project ----> Zip ----> AWS  ---> UnZip ----> /var/www/html
+Local Project ----> Zip ----> AWS  ---> UnZip ----> /var/www/html 
 Local Project ----> GitHub ----> Clone to AWS -----> /var/www/html
 
 ### To navigate around terminal
