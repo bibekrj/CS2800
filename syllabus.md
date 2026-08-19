@@ -75,7 +75,7 @@ Students will be provided with online reference materials throughout the course 
 
 ## Evaluation & Grading  
 
-- Assignments (iWreframe, HTML, CSS, JS) – 40%  
+- Assignments (Wireframe, HTML, CSS, JS) – 40%  
 - Quizzes (Web Foundations, Git/GitHub, Internet culture) – 15%  
 - Project Drafts (progress checkpoints) – 15%  
 - Final Project (Deployed Website) – 20%  
