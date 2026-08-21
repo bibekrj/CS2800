@@ -22,7 +22,7 @@ This course introduces students to modern web development through a hands-on, pr
 ---
 
 ## Prerequisite  
-None  
+Undergraduate level CS 1160 Minimum Grade of D or Undergraduate level CS 1180 Minimum Grade of D or Undergraduate level CEG 2170 Minimum Grade of D
 
 ---
 
