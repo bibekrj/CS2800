@@ -4,15 +4,15 @@
 
 ## Instructor Information  
 - **Instructor:** Bibek Raj Joshi 
-- **Email:** [bibek.joshi@wright.edu]  
-- **Office Hours:** Mondays & Wednesdays, 3:00 PM – 5:00 PM  
-- **Location:** Russ 331
+- **Email:** <bibek.joshi@wright.edu>
+- **Office Hours:** Mondays, Tuesdays, Wednesdays, & Thursday 11:30 AM – 12:30 PM  
+- **Location:** Russ Engineering Center RC 331
 
 ---
 
 ## Schedule Information  
-- **Class Schedule:** Tuesdays & Thursdays, 6:30 PM – 7:50 PM  
-- **Location:** Russ 146
+- **Class Schedule:** Tuesdays & Thursdays, 9:30 AM – 10:50 AM  
+- **Location:** Russ Engineering Center 152C
 
 ---
 
@@ -75,10 +75,10 @@ Students will be provided with online reference materials throughout the course 
 
 ## Evaluation & Grading  
 
-- Assignments (Wireframe, HTML, CSS, JS) – 25%  
-- Quizzes (Web Foundations, Git/GitHub, Internet culture) – 10%  
-- Project Drafts (progress checkpoints) – 20%  
-- Final Project (Deployed Website) – 35%  
+- Assignments (Wireframe, HTML, CSS, JS) – 40%  
+- Quizzes (Web Foundations, Git/GitHub, Internet culture) – 15%  
+- Project Drafts (progress checkpoints) – 15%  
+- Final Project (Deployed Website) – 20%  
 - Final Presentation – 10%  
 
 **Grading Scale**  
@@ -88,7 +88,7 @@ Students will be provided with online reference materials throughout the course 
 - 60–69: D  
 - 0–59: F  
 
-*Final grades are at the discretion of the instructor.*  
+***Final grades are at the discretion of the instructor.***
 
 If you have personal concerns about grading, course progress, or extension requests, please email the course instructor directly.  
 
@@ -145,58 +145,106 @@ All work submitted must be original. Any external sources must be properly cited
 ## Learning Objectives  
 By the end of this course, students will be able to:  
 
-- Identify business and user requirements to guide site development.  
-- Create and use wireframes and user flows to plan site architecture.  
-- Demonstrate technical proficiency with HTML, CSS, and JavaScript.  
-- Apply usability heuristics, accessibility (ADA/WCAG), and design psychology in layouts.  
-- Use Git/GitHub for version control and collaboration.  
-- Deploy a project to AWS.  
+- Explain the foundations, resources, and applications of the Internet and World Wide Web, including client-server communication, URLs, DNS, HTTP/HTTPS, and web resources.
+- Build webpages using current HTML standards to establish meaningful document structure and content.
+- Apply CSS to control the presentation, layout, and responsive behavior of webpages.
+- Effectively incorporate images, audio, video, and other multimedia resources into accessible webpages.
+- Develop interactive webpages using client-side JavaScript programming.
+- Apply appropriate industry tools, technologies, accessibility practices, and web standards from recognized standards bodies.
+- Identify business and user requirements to guide site development.
+- Create and use wireframes and user flows to plan site architecture.
+- Apply usability heuristics and accessibility principles in webpage design.
+- Use Git and GitHub for version control and project management.
+- Deploy and test a web project using cloud-hosting technologies.
 
 ---
 
 ## Course Topics & Roadmap  
 
-**Week 1 – Case Study & Wireframing**  
-- Identify key features from case studies  
-- Wireframe concepts and tools  
-- Assignment: Create a wireframe + user flow (user perspective)  
+**Week 1 – Web Foundations**  
+- Internet vs World Wide Web
+- Client-server architecture
+- Domain names, DNS and URLs 
+- Web resources and hyperlinks
+- HTTP/HTTPS requests and responses
+- Web browsers, web servers, and page rendering
+- Static websites, interactive wwebsites and web applications
 
 **Week 2 – Git/GitHub & Internet Culture**  
-- Version control fundamentals  
-- HTTP 418 (“I’m a Teapot”) and web easter eggs  
+- Version control fundamentals: Git and GitHub
+- Working directory, staging area, commit history
+- Local and remote repositories
+- Basic Git workflow: clone, add, commit, pull, and push
+- Markdown basics and `.gitignore` file
+- HTTP status codes, HTTP 418 (“I’m a Teapot”) and web easter eggs  
 - Assignment: Research & summarize 3 internet easter eggs  
 
-**Week 3 – Web Foundations**  
-- How the web works: client-server, HTTP, DNS, rendering  
+**Week 3 – Case Study & Wireframing**  
+- Identify key features from case studies  
+- Wireframe concepts and tools  
+- User flows and site architecture
+- Assignment: Create a wireframe + user flow (user perspective)  
 
-**Weeks 4–4.5 – HTML**  
-- Core tags: `<head>`, `<body>`, headings, paragraphs  
-- Lists, images, videos  
-- Assignment (ongoing): Research & implement 3 new tags per class  
+**Week 4 – HTML**  
+- Current HTML standards and standards-based markup
+- HTML document structure: `<!DOCTYPE>`, `<html>`, `<head>`, and `<body>`
+- Elements, attributes, nesting, headings, paragraphs, lists, and hyperlinks
+- Semantic HTML elements: `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, and `<footer>`
+- Meaningful content structure and document hierarchy
+- Accessibility considerations in HTML
+- HTML validation and identification of common markup errors
+- Assignment: Build and validate a standards-based semantic HTML webpage
 
-**Weeks 5–7.5/8 – CSS**  
-- CSS basics (inline, internal, external)  
-- Selectors, properties, inheritance  
-- Layouts: box model, flexbox, grid  
-- Applying CSS to HTML projects  
+**Week 5 - Multimedia & Accsible Web Content**
+
+- Incorporating images, audio, and video into webpages
+- Common web multimedia formats and appropriate format selection
+- HTML image, audio, video, figure, caption, and source elements
+- Organizing and referencing multimedia files within a web project
+- Alternative text, captions, transcripts, and other multimedia accessibility practices
+- Responsive multimedia
+- Media optimization, file size, and webpage performance
+- Assignment: Incorporate accessible and optimized multimedia resources into the course website
+
+**Weeks 6–7 – CSS**  
+- CSS syntax and external stylesheets
+- Selectors, properties, cascade, specificity, and inheritance
+- Box model, Flexbox, and Grid
+- Typography and visual presentation
+- Responsive web design and media queries
+- Applying CSS to HTML projects
 
 **Weeks 8–12 – JavaScript**  
-- Basics: variables, functions, operators, loops  
-- DOM manipulation: selecting & editing elements  
-- Event handling & form validation  
-- Building interactivity  
+- Variables, data types, operators, conditionals, loops, arrays, and functions
+- DOM manipulation: selecting and modifying webpage elements
+- Event handling
+- Form interaction and validation
+- Browser console and basic debugging
+- Building interactive client-side webpage functionality
 
 **Week 13 – Deployment**  
-- AWS hosting & deployment process  
-- Site testing & compliance  
-- Final presentation preparation  
+- AWS hosting and deployment
+- Browser developer tools
+- HTML and CSS validation
+- Accessibility testing
+- Cross-browser and responsive testing
+- Web standards and standards bodies, including W3C, WHATWG, and WCAG
+- Final Project Preparations
+
+**Weeks 14-15 Project Presentations and Oral Examinations**
 
 ---
 
 ## Final Project  
-Students will design, build, and deploy a complete website that:  
-- Demonstrates mastery of HTML, CSS, and JavaScript  
-- Incorporates usability and accessibility best practices  
-- Is deployed on AWS  
+Students will design, build, and deploy a complete website that:
 
-The final project will be presented during the last week in a 10-minute session.  
+* Demonstrates proficiency with HTML, CSS, and JavaScript
+* Incorporates usability and accessibility best practices
+* Applies appropriate web standards and development practices
+* Is deployed on AWS
+
+The final project will be presented during the last week of the course in a 10-minute presentation.
+
+As part of the final project evaluation, each student will also complete an **individual oral examination**. During the oral examination, students will be asked to explain and demonstrate aspects of their project, including design decisions, HTML structure, CSS styling, JavaScript functionality, accessibility considerations, development tools, and deployment.
+
+Students should be prepared to explain implementation decisions, identify and troubleshoot selected portions of their project, and describe how their work demonstrates the technologies and web development practices covered in the course.
