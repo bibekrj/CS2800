@@ -229,8 +229,9 @@ By the end of this course, students will be able to:
 - Accessibility testing
 - Cross-browser and responsive testing
 - Web standards and standards bodies, including W3C, WHATWG, and WCAG
-- Site testing and compliance
-- Final presentation and oral examination preparation
+- Final Project Preparations
+
+**Weeks 14-15 Project Presentations and Oral Examinations**
 
 ---
 
